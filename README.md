@@ -11,7 +11,7 @@ Application URL: https://play.google.com/store/apps/details?id=chlapps.babybreas
 如果您只需要簡易的紀錄寶寶的哺乳狀況
 相信此應用程式能夠為您帶來更便利的生活
 
-![image](./wiki/pic/device-2017-11-20-231846.png)
+![image](./wiki/pic/device-2017-11-20-231846_2.png)
 
 ![image](./wiki/pic/device-2017-11-22-005800.png)
 
